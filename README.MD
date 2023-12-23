@@ -14,14 +14,14 @@
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### 프로젝트 실행
 ```
 yarn serve
 ```
 
 ## Node.js를 사용한 Back Server 구현
 
-### Project 실행
+### 프로젝트 실행
 ```
 node app.js
 ```
